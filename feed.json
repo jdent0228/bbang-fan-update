@@ -1,8 +1,8 @@
 {
-  "version": "0.2.0",
-  "notes": "BBANG FAN 0.2.0",
-  "url": "https://github.com/jdent0228/bbang-fan-releases/releases/download/v0.2.0/BBANG-FAN-0.2.0.zip",
-  "sha256": "b3e87144f829e681dd943cbbeedc0d142d7e2353eb06ed51b0c50d9616644423",
-  "signature": "urvyksZBjr4mrZxkx4ePRDRTJxNyygZxdpz8j1OzkZctjXdKpr7XMxxb8uPlv5ljIMYBf/j0NGbrN/LdBYLwAQ==",
-  "daemonSignature": "OLNbVfbAz5+kr4vmkGgNlxQ9bR5BZ2lOMGcN73vzvtMqwYpHDVOJTzzWggTQXxBQuGuPDQI1ni93TNHYowxwDg=="
+  "version": "0.2.1",
+  "notes": "BBANG FAN 0.2.1",
+  "url": "https://github.com/jdent0228/bbang-fan-releases/releases/download/v0.2.1/BBANG-FAN-0.2.1.zip",
+  "sha256": "7caf55e3caad5b82222e640ec5d93328a8abf3f89b6efe947dd688e0fb51da79",
+  "signature": "kTdUGbb9uxDhB1UaJi6Vp6ghsV4ESYR2wgTUyl/tPBrQDla8QhV8b/X4OBOa4givEzTpOIifZf/Sr3Y4WDYfDg==",
+  "daemonSignature": "g2F8qfMIpnAY1fgefeLOPOioZshMIF+6tRENQ5ZOYLZgsyTiBKsLRz3y9UqsA5JIDCjvSEdmoBQeu6lplSz5Dg=="
 }
